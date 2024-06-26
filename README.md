@@ -15,6 +15,6 @@ I'm a final year web development student with a passion for learning and staying
 
 Feel free to connect if you're interested in collaboration or discussing tech!
 
-- 📧 Email: faezedrx@gmail.com
+- 📧 Email: faezeh.darbeheshti@gmail.com
 
 Let's create something awesome together! 🚀
