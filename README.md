@@ -2,26 +2,27 @@
 
 ## About Me
 
-Hey there! I'm Faezeh, a final-year web development student driven by a passion for continuous learning and staying at the forefront of technology. Here’s a snapshot of my journey and skills:
+Hi there! I'm Faezeh, a web development graduate with a passion for cutting-edge technologies and frameworks. Here’s a snapshot of my skills and experience:
 
-- 🎓 **Education**: 
-  - Final year student specializing in **Web Development**
+- 🎓 **Education**:
+  - Bachelor's Degree in **Web Development**
   - Degree in **Network and Internet Technology**
-- 💻 **Skills**: 
-  - Proficient in: **HTML, CSS, JavaScript, PHP**
-  - Familiar with: **Python**, exploring **Streamlit** for web app development
-- 🌐 **Interests**: 
-  - Enthusiastic about: Exploring **new web technologies and frameworks**
-- 🎨 **Design**: 
-  - Experienced with: **Tailwind CSS** for creating efficient and responsive designs
+- 💻 **Skills**:
+  - Proficient in: **HTML**, **CSS**, **JavaScript**, **PHP**
+  - Familiar with: **Python**—exploring libraries and frameworks as needed
+  - Specializing in: **PHP** and **Laravel**
+- 🌐 **Interests**:
+  - Passionate about: Exploring **new web technologies and frameworks**
+- 🎨 **Design**:
+  - Experienced with: **Tailwind CSS**
 
 ## Get in Touch
 
-I'm always open to collaboration and tech discussions! Feel free to reach out:
+I’m always excited about collaboration and tech discussions! Feel free to reach out:
 
 - 📧 **Email**: [faezeh.darbeheshti@gmail.com](mailto:faezeh.darbeheshti@gmail.com)
 
-Let's create something awesome together! 🚀
+Let’s build something amazing together! 🚀
 
 ---
 
@@ -35,4 +36,3 @@ Let's create something awesome together! 🚀
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
-
